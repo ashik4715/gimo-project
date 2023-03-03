@@ -1,0 +1,50 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.book-infomation {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  background-color: darkseagreen;
+}
+.book-infomation input {
+  max-width: 300px;
+  max-height: 50px;
+  font-size: 20px;
+  padding-left: 10px;
+  margin: 5px;
+}
+.book-infomation button {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  max-width: 330px;
+  max-height: 50px;
+}
+.book-infomation button:hover {
+  cursor: pointer;
+}
+.showBooks {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.showBook {
+  width: 1000px;
+  max-height: 180px;
+  border: 1px solid slateblue;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  background-color: #c3b683;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.showBook h3 {
+  margin: 10px;
+  color: rgb(0, 64, 110);
+}
