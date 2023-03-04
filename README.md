@@ -1,5 +1,5 @@
 # Project Info
-This is a A task for React search data from API with AXIOS function and implementation with ExpressJS. 
+This is a A task for React to perform POST and GET Request with AXIOS function and implementation with ExpressJS. 
 # Important command 
 
 ## Mysql Database Setup info
